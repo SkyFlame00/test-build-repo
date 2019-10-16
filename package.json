@@ -17,5 +17,12 @@
   "bugs": {
     "url": "https://github.com/SkyFlame00/test-build-repo/issues"
   },
-  "homepage": "https://github.com/SkyFlame00/test-build-repo#readme"
+  "homepage": "https://github.com/SkyFlame00/test-build-repo#readme",
+  "devDependencies": {
+    "browserify": "^16.5.0",
+    "gulp": "^4.0.2",
+    "gulp-uglify-es": "^1.0.4",
+    "vinyl-buffer": "^1.0.1",
+    "vinyl-source-stream": "^2.0.0"
+  }
 }
